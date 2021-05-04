@@ -16,6 +16,8 @@ Passionate about development, innovation and always willing to help
 	- React
 	- React Native
 	- Java
+	- Python
+	- bash
 - 🍀 **Daily reminder** 
 	- Doing only what we like is a privilege, not a choice
 ## Reach me out 
