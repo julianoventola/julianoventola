@@ -3,7 +3,7 @@
 Passionate about development, innovation and always willing to help
 
 ## Hi there!👋
-- 💻**Integration Engineer at**  [LinkApi](https://www.linkapi.solutions/)
+- 💻**Backend Developer at**  [DBC Company](https://www.dbccompany.com.br/)
 - 💡 **Learning** 
 	- Dart
 	- Flutter
