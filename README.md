@@ -3,14 +3,13 @@
 Passionate about development, innovation and always willing to help
 
 ## Hi there!👋
-- 💻**Backend Developer at**  [DBC Company](https://www.dbccompany.com.br/)
+- 💻**Backend Developer**
 - 💡 **Learning** 
-	- Dart
-	- Flutter
+	- Everthing?! 😅
 - 📍 **Brazil - São Paulo**
 -  🧠 **Other technologies**
-	-  HTML
-	-  CSS
+	- HTML
+	- CSS
 	- Javascript
 	- Node
 	- React
@@ -18,6 +17,8 @@ Passionate about development, innovation and always willing to help
 	- Java
 	- Python
 	- bash
+ 	- dart
+  	- flutter
 - 🍀 **Daily reminder** 
 	- Doing only what we like is a privilege, not a choice
 ## Reach me out 
